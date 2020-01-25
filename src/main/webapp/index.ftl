@@ -6,5 +6,7 @@
 </head>
 <body>
   <h1>Hello</h1>
+  <br/>
+  <a href="/hello">First Freemarker template</a>
 </body>
 </html>
